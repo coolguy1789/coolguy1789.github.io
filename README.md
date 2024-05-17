@@ -13,6 +13,9 @@
 	    font-size:40px;
 		text-align:center;
 		color:lime;
+	  h1 {
+		text-align:center;
+		color:lime;
 	  }
 	  img {
 	    float:center;
