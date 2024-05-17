@@ -20,10 +20,15 @@
 	  img {
 	    float:center;
 	  }
+          #head {
+	       font-size:80px;
+	       color:lime;
+	       text-align:center;
+	  }
 	</style>
   </head>
   <body>
-  <h1>He he he website</h1>
+  <p #head>He he he website</p>
     <a href="https://lms.fcps.edu/home">Return to Safety</a>
 	<br>
 	<p><a href="minecraft.html"><img src="Grass_Block_29_BE5.webp" height="200" width="200"></a></p>
