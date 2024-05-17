@@ -24,7 +24,7 @@
   </head>
   <body>
   <p>He he he website</p>
-    <a href="https://lms.fcps.edu/home">Return to Safety</a>
+    <a href="https://lms.fcps.edu/home">Return to Safety <img src="schoology_round.png"></a>
 	<br>
 	<p><a href="minecraft.html"><img src="Grass_Block_29_BE5.webp" height="200" width="200"></a></p>
 	<p>Minecraft</p>
